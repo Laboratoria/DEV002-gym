@@ -2,7 +2,7 @@
 
 ## Presentación
 
-[Presentación](https://docs.google.com/presentation/d/1ncCyOcIuMkMz_dMPaUSWmyiplbtXvHIBa0ZDuITqh7k/edit#slide=id.g10bc3f0baf0_0_38)
+[Presentación](https://docs.google.com/presentation/d/1nkFlVi8FjpZ0_81Tlnm_8mAfM_XYlN6n/edit#slide=id.p1)
 
 ## kahoot
 
