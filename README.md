@@ -2,4 +2,4 @@
 
 ## Sesiones
 
-- ### [Sesión 01 (Kick-off)](./session-01/session-01.md)
+- ### [Sesión 01 (Kick-off)](./sessions/session-01.md)
